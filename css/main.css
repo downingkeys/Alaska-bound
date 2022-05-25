@@ -290,7 +290,7 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: src="/images/Tito-Wee.jpg" alt="Tito-Wee"
+  background-image: url(/images/alaska/tito-wee.jpg);
   background-position: center top;
 }
 .hero-content {
